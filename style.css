@@ -1,0 +1,35 @@
+body{
+    background-image: linear-gradient(to right, rgb(81, 185, 255), black);
+    margin: 0;
+    padding: 0%;
+}
+
+form{
+    padding: 40px;
+    border: 2px solid rgb(99, 213, 248);
+    background-color: rgb(189, 218, 255);
+    height: 250px;
+}
+#login{
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+}
+.form{
+    padding: 30px;
+    border-radius: 1px;
+    width: 250px;
+}
+.form input{
+    width: 250px;
+    height: 20px;
+    border: 0%;
+    margin: 0%;
+}
+.form label{
+    font-family: verdana;
+}
+.form h1{
+    text-align: center;
+}
